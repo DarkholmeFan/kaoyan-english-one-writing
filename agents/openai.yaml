@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研英语一作文批改"
+  short_description: "按考研英语一写作档次估分，核对题目任务，逐句纠错并提供保留原意的修改稿。"
+  default_prompt: "用 $kaoyan-english-one-writing 批改我发来的考研英语一作文，给出分档估分、审题与分段诊断、逐句纠错和一版保留原意的改稿。"
